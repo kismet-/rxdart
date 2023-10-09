@@ -1,5 +1,3 @@
----
-
 # rxdart
 
 `rxdart` is a Dart reimplementation of the RxJS API, it aims to follow the [Reactive Extensions For JavaScript](https://github.com/reactivex/rxjs) contract as much as possible.
